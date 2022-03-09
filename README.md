@@ -6,7 +6,9 @@
 Адаптеры были отрезаны везде.
 | ENCFF659VLH | ENCFF192ZGO | ENCFF572ZEF |
 | ------------- | ------------- | ------------- | 
-| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/result.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/result2-2.png) | |
+| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
+| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
+| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
 
 ### Статистика по образцам:
 Cводная таблица ридов, закартированных на участки 11347700-11367700 и 40185800-40195800 + дедупликация:
