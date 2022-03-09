@@ -20,6 +20,6 @@ pdf в репозитории
 ### Бонусное задание
 
 ### Гистограммы распределения метилирования цитозинов по хромосоме (по X процент метилированных цитозинов, по Y - частота):  
-| 1 | 2 | 3 |
-| ------------- | ------------- | ------------- | 
-| ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_8cell.png) | ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_epiblast.png) | ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_ICM.png) |   
+| 1 | 2 | 
+| ------------- | ------------- | 
+| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/result.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/result2-2.png) | 
