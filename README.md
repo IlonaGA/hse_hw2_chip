@@ -3,7 +3,7 @@
 
 ### FastQC report
 Репорты находятся в репозитории.
-Адаптеры были отрезаны везде (после подрезания стало лучше).
+Адаптеры были отрезаны везде (но это не требовалось).
 | ENCFF659VLH | ENCFF192ZGO | ENCFF572ZEF |
 | ------------- | ------------- | ------------- | 
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
