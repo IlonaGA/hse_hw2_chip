@@ -7,7 +7,7 @@
 | ENCFF659VLH | ENCFF192ZGO | ENCFF572ZEF |
 | ------------- | ------------- | ------------- | 
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
-| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
+| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length3.png) |
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
 
 ### Статистика по образцам:
