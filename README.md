@@ -3,12 +3,12 @@
 
 ### FastQC report
 Репорты находятся в репозитории.
-Адаптеры были отрезаны везде.
+Адаптеры были отрезаны везде (после подрезания стало лучше).
 | ENCFF659VLH | ENCFF192ZGO | ENCFF572ZEF |
 | ------------- | ------------- | ------------- | 
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
 | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/length3.png) |
-| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/GC3.png) |
+| ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC1.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC2.png) | ![ ](https://github.com/IlonaGA/hse_hw2_chip/blob/main/Images/ATGC3.png) |
 
 ### Статистика по образцам:
 Cводная таблица ридов, закартированных на участки 11347700-11367700 и 40185800-40195800 + дедупликация:
@@ -23,7 +23,7 @@ Cводная таблица ридов, закартированных на у�
 ### Диаграммы Венна о пересечении наших MACS2 пиков и ENCODE пиков для двух реплик 
 pdf в репозитории
 Диаграммы Венна показывает кличество пересечений выявленных пиков/пиков ENCODE, а также пиков ENCODE/выявленных пиков, данная операция не является симметричной, поэтому количество пиков разное (ситуация похожа на bedtools intersect). 
-
+Пересечений достачно мало, так получилось из-за выравнивания только на одну (не самую большую) хромосому (В ENCODE пики для всех хромосом)
 ### Бонусное задание:
 | 1 | 2 | 
 | ------------- | ------------- | 
