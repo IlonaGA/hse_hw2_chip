@@ -1,5 +1,5 @@
 # hse_hw2_chip
-[Ссылка на Google Colab](https://colab.research.google.com/drive/1-dXmptBlP0_1-4jG2QZhg2dha5yFg3Vt?usp=sharing)
+[Ссылка на Google Colab](https://colab.research.google.com/drive/1CWcc-D30_tFVsLV0rtY0cQMta3Z7nomP?usp=sharing)
 
 ### FastQC report
 
